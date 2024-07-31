@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "testeoi"
+  description: "My Web App"
+  annotations:
+    github.com/project-slug: veecode-magalu/testerepo2
+spec:
+  type: devops
+  lifecycle: development
+  owner: group:default/eumesmo
