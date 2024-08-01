@@ -4,7 +4,7 @@ metadata:
   name: "testeoi"
   description: "My Web App"
   annotations:
-    github.com/project-slug: veecode-magalu/testerepo2
+    github.com/project-slug: veecode-magalu/simple-vm
 spec:
   type: devops
   lifecycle: development
