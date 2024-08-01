@@ -5,6 +5,7 @@ metadata:
   description: "My Web App"
   annotations:
     github.com/project-slug: veecode-magalu/simple-vm
+    github.com/workflows: terraform.yml,destroy.yml
 spec:
   type: devops
   lifecycle: development
