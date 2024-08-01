@@ -3,7 +3,7 @@ terraform {
     organization = "veecode"
 
     workspaces {
-      name = "veecode"
+      name = "veecode-simple-vm"
     }
   }
 }

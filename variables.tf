@@ -7,7 +7,7 @@ variable "api_key" {
 variable "vm_name" {
   description = "Virtual machine name"
   type        = string
-  default     = "simple-vm"
+  default     = "simple-vm2"
 }
 
 variable "vm_size" {
